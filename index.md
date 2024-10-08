@@ -15,5 +15,5 @@ I am an open-source contributor and I like making things that help people with t
 __[You should follow me on Twitter.][twitter]__ You can write to me through
 [hi@esonpaguia.com].
 
-[twitter]: https://twitter.com/esonpaguia
-[hi@esonpaguia.com]: mailto:hi@esonpaguia.com
+[twitter]: https://twitter.com/{{ site.twitter_username }}
+[hi@esonpaguia.com]: mailto:{{ site.email_address }}

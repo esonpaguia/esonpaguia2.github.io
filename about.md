@@ -1,6 +1,6 @@
 ---
 layout: landing
-permalink: /about/
+permalink: /about
 ---
 
 While Java development is my primary language, I am always eager to understand all aspects of a system.
@@ -27,8 +27,8 @@ I believe
 I am an adventurer, a traveller, and a student. I love to learn and experience new things daily.
 
 * __Site:__ [esonpaguia.com]
-* __Twitter:__ [@esonpaguia](https://twitter.com/esonpaguia)
-* __GitHub:__ [esonpaguia](https://github.com/esonpaguia)
-* __Picture:__ [see image](images/avatar.jpg)
+* __Twitter:__ [@esonpaguia](https://twitter.com/{{ site.twitter_username }})
+* __GitHub:__ [esonpaguia](https://github.com/{{ site.github_username }})
+* __Picture:__ [see image](../images/avatar.jpg)
 
-[esonpaguia.com]: http://esonpaguia.com
+[esonpaguia.com]: {{ site.url }}
