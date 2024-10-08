@@ -1,18 +1,34 @@
 ---
-layout: page
-title: About
+layout: landing
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+While Java development is my primary language, I am always eager to understand all aspects of a system.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I was fortunate enough to know from a young age that I like computers - not just playing games but learn how computer programs actually work. Thus, programming came naturally.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I like to build things that will help people in their everyday lives and make them happy.
 
+I believe
 
-[jekyll-organization]: https://github.com/jekyll
+<strong>&gt;</strong> Make someone happy today (me)<br>
+<strong>&gt;</strong> Build software for people first, computers second.<br>
+<strong>&gt;</strong> Usability comes first, inspired by Donald Norman<br>
+<strong>&gt;</strong> Make everything as simple as possible, but not simpler. (Albert Einstein)<br>
+<strong>&gt;</strong> Don’t make me think. (Steve Krug)<br>
+<strong>&gt;</strong> People who think well, write well. (David Ogilvy)<br>
+<strong>&gt;</strong> Omit needless words. (Strunk & White)<br>
+<strong>&gt;</strong> Do one thing and do it right. (37signals)<br>
+<strong>&gt;</strong> Good is the enemy of great. (Jim Collins)<br>
+<strong>&gt;</strong> Stay hungry, stay foolish. (Steve Jobs)<br>
+<strong>&gt;</strong> Life shrinks or expands in proportion to one's courage (Anais Nin)<br>
+<strong>&gt;</strong> Michael Jordan is an alien. (me, again)<br>
+
+I am an adventurer, a traveller, and a student. I love to learn and experience new things daily.
+
+* __Site:__ [esonpaguia.com]
+* __Twitter:__ [@esonpaguia](https://twitter.com/esonpaguia)
+* __GitHub:__ [esonpaguia](https://github.com/esonpaguia)
+* __Picture:__ [see image](images/avatar.jpg)
+
+[esonpaguia.com]: http://esonpaguia.com
